@@ -1,5 +1,5 @@
 ## Olá! Sou Augusto Rodrigues. 
-#### Sou Engenheiro de Computação com foco em Ciência e Engenharia de Dados, especializado em desenvolvimento de pipelines, APIs e dashboards interativos.
+#### Sou Engenheiro de Computação com foco em Ciência de Dados, especializado em desenvolvimento de pipelines, APIs e dashboards interativos.
 
 ##
 
